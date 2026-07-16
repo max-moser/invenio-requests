@@ -2,10 +2,17 @@
     SPDX-FileCopyrightText: 2021-2025 CERN.
     SPDX-FileCopyrightText: 2024-2026 Graz University of Technology.
     SPDX-FileCopyrightText: 2026 Northwestern University.
+    SPDX-FileCopyrightText: 2026 TU Wien.
     SPDX-License-Identifier: MIT
 
 Changes
 =======
+
+Version v15.1.1 (released 2026-07-16)
+
+- fix(i18n): update variable naming in  translations (#621)
+- i18n: Static request actions (#598)
+- chore(setup): migrate from setuptools to hatchling
 
 Version v15.1.0 (released 2026-07-02)
 
